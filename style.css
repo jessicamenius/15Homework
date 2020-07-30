@@ -1,0 +1,134 @@
+body {
+  font-family: Noto + Sans !important;
+  background-color: #d3e3fc;
+}
+
+.navbar {
+  background-color: #00887a;
+  color: #d3e3fc;
+}
+
+.navbar-toggler {
+  background-color: #77a6f7;
+  color: #d3e3fc;
+}
+
+header {
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+header h1 {
+  display: inline-block;
+  font-size: 48px;
+}
+
+/* .col {
+  width: 100%;
+  display: flex;
+} */
+
+.picture {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
+}
+
+.container {
+  display: flex;
+  margin: 20px;
+  padding: 50px;
+}
+
+.container-img {
+  margin: 20px;
+}
+/* 
+#gameApp {
+  display: flex;
+  width: 25rem;
+  height: 34.5rem;
+  background-image: url(assets/gamesLight.png);
+}
+
+#gameApp:hover {
+  background-image: url(assets/gamesDark.png);
+} */
+
+body {
+  font-family: Noto + Sans !important;
+}
+.toggler {
+  height: 30px;
+  width: 60px;
+  border-radius: 25px;
+  margin-right: 20px;
+}
+.toggle {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  transition: margin-left 0.5s ease;
+}
+
+.theme1 {
+  color: #00887a;
+}
+
+.theme2 {
+  color: #ffccbc;
+}
+
+.theme3 {
+  color: #ffffff;
+}
+
+.theme4 {
+  color: #d3e3fc;
+}
+
+.theme5 {
+  color: #77a6f7;
+}
+
+#center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 2px solid #ffccbc;
+}
+
+.btn {
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  background-color: #ffccbc;
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  cursor: pointer;
+}
+
+.warning {
+  border-color: #ffb48f;
+  color: black;
+}
+
+.warning:hover {
+  background: #ffb48f;
+  color: white;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+.cls
